@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "TicketReservation"
+    _PROJECT_NAME: "ticketreservation"
 
 phases:
   install:
